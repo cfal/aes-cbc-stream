@@ -1,0 +1,29 @@
+{
+  "name": "aes-cbc-stream",
+  "version": "1.0.1",
+  "description": "AES-CBC streams with support for partial decryption",
+  "author": {
+    "name": "Alex Lau",
+    "email": "npm@alau.in"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/cfal/aes-cbc-stream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cfal/aes-cbc-stream.git"
+  },
+  "keywords": [
+    "aes-cbc",
+    "aes-cbc",
+    "encrypt",
+    "stream",
+    "crypto"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "devDependencies": {
+    "tap": "^14.11.0"
+  }
+}
